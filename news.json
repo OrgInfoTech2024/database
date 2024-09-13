@@ -1,5 +1,17 @@
 {
-  {"image": "url1", "mainText": "title1", "text": "content1"},
-  {"image": "url2", "mainText": "title2", "text": "content2"},
-  {"image": "url3", "mainText": "title3", "text": "content3"}
+  {
+    "image": "url1",
+    "mainText": "title1",
+    "text": "content1"
+  },
+  {
+    "image": "url2",
+    "mainText": "title2",
+    "text": "content2"
+  },
+  {
+    "image": "url3",
+    "mainText": "title3",
+    "text": "content3"
+  }
 }
