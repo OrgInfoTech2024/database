@@ -2,16 +2,19 @@
   {
     "image": "url1",
     "mainText": "title1",
-    "text": "content1"
+    "text": "content1",
+    "data": "1 січня 2024 року"
   },
   {
     "image": "url2",
     "mainText": "title2",
-    "text": "content2"
+    "text": "content2",
+    "data": "1 січня 2024 року"
   },
   {
     "image": "url3",
     "mainText": "title3",
-    "text": "content3"
+    "text": "content3",
+    "data": "1 січня 2024 року"
   }
 ]
