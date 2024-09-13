@@ -3,18 +3,21 @@
     "image": "url1",
     "mainText": "title1",
     "text": "content1",
-    "data": "1 січня 2024 року"
+    "data": "1 січня 2024 року",
+    "dataid": "01012024"
   },
   {
     "image": "url2",
     "mainText": "title2",
     "text": "content2",
-    "data": "1 січня 2024 року"
+    "data": "2 січня 2024 року",
+    "dataid": "02012024"
   },
   {
     "image": "url3",
     "mainText": "title3",
     "text": "content3",
-    "data": "1 січня 2024 року"
+    "data": "3 січня 2024 року",
+    "dataid": "03012024"
   }
 ]
