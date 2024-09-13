@@ -1,4 +1,4 @@
-{
+[
   {
     "image": "url1",
     "mainText": "title1",
@@ -14,4 +14,4 @@
     "mainText": "title3",
     "text": "content3"
   }
-}
+]
